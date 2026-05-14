@@ -1,0 +1,13 @@
+#para{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: medium;
+    font-style: italic;
+    /* text-align: center; */
+    text-decoration: underline;
+    text-transform: lowercase;
+    word-spacing: 3px;
+    font-weight:300;
+    line-height: 200%;
+    color: purple;
+    letter-spacing: 1px;
+}
